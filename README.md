@@ -1,5 +1,5 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 13/11/2023
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,20 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+# The X-Axis:
+The X-axis of the 3D printer corresponds to its lateral movement. The X-axis moves in a horizontal direction, from left to right or vice versa. It consists of a smooth rod, bearing, idler, extruder and a motor.
 
-### Name: 
-### Register Number:
+# The Y-axis:
+The Y-axis of the 3D printer also corresponds to its lateral movement; but this one moves in a horizontal direction from forward to backward or vice versa. It consists of a Y-axis supporter, horizontal and vertical threaded rod, smooth rod, pulley, motor, Y-axis frame and a Y-axis base.
+
+# The Z-axis:
+The Z-axis of the 3D printer corresponds to its vertical movement. The Z-axis moves in a horizontal direction, from top to bottom or vice versa. It consists of a Z=axis rod, Z-axis top cover and a motor.
+
+### Name: Joel John Jobinse
+### Register Number: 23008174
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+
+### Link:
+https://3dp-dei.vlabs.ac.in/exp/simulation-cartesian-system/
